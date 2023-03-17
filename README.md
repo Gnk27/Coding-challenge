@@ -7,6 +7,6 @@ An empty neo4j database called `neo4j` is necesary for the code to run, implemen
 
 In the `dat_model` folder a image can be found with the produced data model for this project.
 
-![Neo4j data model](data_model\graph.png)
+![Neo4j data model](data_model/graph.png)
 
 > Presented by: Giancarlo Marquez
